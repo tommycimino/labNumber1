@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\code\tic tac toe\bin\Debug\netcoreapp3.1\lab.exe
+C:\Users\Tommy\Documents\code\tic tac toe\bin\Debug\netcoreapp3.1\lab.deps.json
+C:\Users\Tommy\Documents\code\tic tac toe\bin\Debug\netcoreapp3.1\lab.runtimeconfig.json
+C:\Users\Tommy\Documents\code\tic tac toe\bin\Debug\netcoreapp3.1\lab.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\code\tic tac toe\bin\Debug\netcoreapp3.1\lab.dll
+C:\Users\Tommy\Documents\code\tic tac toe\bin\Debug\netcoreapp3.1\lab.pdb
+C:\Users\Tommy\Documents\code\tic tac toe\obj\Debug\netcoreapp3.1\lab.csprojAssemblyReference.cache
+C:\Users\Tommy\Documents\code\tic tac toe\obj\Debug\netcoreapp3.1\lab.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\code\tic tac toe\obj\Debug\netcoreapp3.1\lab.AssemblyInfo.cs
+C:\Users\Tommy\Documents\code\tic tac toe\obj\Debug\netcoreapp3.1\lab.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\code\tic tac toe\obj\Debug\netcoreapp3.1\lab.dll
+C:\Users\Tommy\Documents\code\tic tac toe\obj\Debug\netcoreapp3.1\lab.pdb
+C:\Users\Tommy\Documents\code\tic tac toe\obj\Debug\netcoreapp3.1\lab.genruntimeconfig.cache
